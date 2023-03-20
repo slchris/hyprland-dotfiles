@@ -1,0 +1,14 @@
+>=app-accessibility/speech-dispatcher-0.11.4 python
+# required by dev-python/PyQtWebEngine-5.15.6::gentoo
+# required by app-text/calibre-5.44.0-r1::gentoo[python_single_target_python3_10]
+# required by @workspace
+# required by @selected
+# required by @world (argument)
+>=dev-python/PyQt5-5.15.7 webchannel
+# required by dev-python/PyQt5-5.15.7::gentoo[multimedia]
+# required by dev-python/PyQtWebEngine-5.15.6::gentoo
+# required by app-text/calibre-5.44.0-r1::gentoo[python_single_target_python3_10]
+# required by @workspace
+# required by @selected
+# required by @world (argument)
+>=dev-qt/qtmultimedia-5.15.8 widgets

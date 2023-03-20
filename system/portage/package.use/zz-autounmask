@@ -1,0 +1,19 @@
+# required by app-emulation/virt-manager-4.1.0::gentoo[gui,-test]
+# required by @dev-utils (argument)
+>=net-misc/spice-gtk-0.41-r1 usbredir
+# required by app-emulation/libvirt-8.9.0-r1::gentoo[virt-network]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-4.1.0::gentoo[-test]
+# required by @dev-utils (argument)
+>=net-dns/dnsmasq-2.89 script
+# required by app-doc/zeal-0.6.1_p20200815-r1::gentoo
+# required by @dev-utils (argument)
+>=dev-qt/qtwebengine-5.15.8_p20230112 widgets
+# required by dev-qt/qtwebengine-5.15.8_p20230112::gentoo
+# required by app-doc/zeal-0.6.1_p20200815-r1::gentoo
+# required by @dev-utils (argument)
+>=dev-qt/qtwebchannel-5.15.8 qml
+# required by dev-qt/qtwebengine-5.15.8_p20230112::gentoo
+# required by app-doc/zeal-0.6.1_p20200815-r1::gentoo
+# required by @dev-utils (argument)
+>=sys-libs/zlib-1.2.13-r1 minizip

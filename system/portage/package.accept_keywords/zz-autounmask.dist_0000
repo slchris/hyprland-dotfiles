@@ -1,0 +1,910 @@
+# package.accept_keywords# required by x11-misc/pcmanfm-1.3.2-r1::gentoo
+# required by @common-utils
+# required by @selected
+# required by @world (argument)
+=x11-libs/libfm-1.3.2 ~amd64
+# required by @common-utils
+# required by @selected
+# required by @world (argument)
+=x11-misc/pcmanfm-1.3.2-r1 ~amd64
+# required by app-emulation/vagrant-2.2.19-r1::gentoo[ruby_targets_ruby27]
+# required by @dev-utils (argument)
+=dev-ruby/rubyzip-2.3.2-r1 ~amd64
+# required by app-emulation/vagrant-2.2.19-r1::gentoo[ruby_targets_ruby27]
+# required by @dev-utils (argument)
+=dev-ruby/vagrant_cloud-3.0.5 ~amd64
+# required by app-emulation/vagrant-2.2.19-r1::gentoo[ruby_targets_ruby27]
+# required by @dev-utils (argument)
+=dev-ruby/hashicorp-checkpoint-0.1.5-r1 ~amd64
+# required by @dev-utils (argument)
+=app-doc/zeal-0.6.1_p20200815-r1 ~amd64
+# required by @dev-utils (argument)
+=app-emulation/vagrant-2.2.19-r1 ~amd64
+# required by @dev-utils (argument)
+=dev-util/packer-1.8.5 ~amd64
+# required by @dev-utils (argument)
+=app-editors/vscode-1.76.0 ~amd64
+# required by @dev-utils (argument)
+=dev-util/github-cli-2.21.2 ~amd64
+# required by @vpn (argument)
+=net-misc/zerotier-1.10.1 ~amd64
+# required by @workspace (argument)
+=media-video/obs-studio-29.0.2 ~amd64
+# required by @workspace (argument)
+=net-im/slack-4.29.149 ~amd64
+# required by @workspace (argument)
+=net-im/zoom-5.13.10.1208 ~amd64
+# required by @workspace (argument)
+=x11-misc/betterlockscreen-4.0.4 ~amd64
+# required by x11-misc/betterlockscreen-4.0.4::guru
+# required by @workspace (argument)
+=x11-misc/i3lock-color-2.13.4 ~amd64
+# required by @workspace (argument)
+=x11-misc/copyq-6.4.0 ~amd64
+# required by dev-haskell/th-lift-instances-0.1.19::gentoo
+# required by dev-haskell/unicode-collation-0.1.3.3::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/th-lift-0.8.2 ~amd64
+# required by dev-haskell/commonmark-0.2.2::gentoo
+# required by dev-haskell/commonmark-extensions-0.2.3.2::gentoo
+# required by dev-haskell/commonmark-pandoc-0.2.1.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/unicode-data-0.3.0 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/data-default-0.7.1.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/th-abstraction-0.4.3.0 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/time-compat-1.9.6.1 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/xml-types-0.3.8 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/text-conversions-0.3.1 ~amd64
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/mime-types-0.1.0.9 ~amd64
+# required by dev-haskell/hashable-1.4.0.2-r1::gentoo
+# required by dev-haskell/void-0.7.3::gentoo
+# required by dev-haskell/contravariant-1.5.3::gentoo
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/base-orphans-0.8.6 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-2.2.0 ~amd64
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/semigroupoids-5.3.7-r1 ~amd64
+# required by dev-haskell/unicode-collation-0.1.3.3::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/th-lift-instances-0.1.19 ~amd64
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-lang/ghc-9.0.2-r4 ~amd64
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/x509-store-1.6.7 ~amd64
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/streaming-commons-0.2.2.4 ~amd64
+# required by dev-haskell/cryptonite-0.28::gentoo
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/memory-0.15.0-r1 ~amd64
+# required by dev-haskell/doclayout-0.4::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/emojis-0.1.2 ~amd64
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/typed-process-0.2.6.0 ~amd64
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hsyaml-0.2.1.0 ~amd64
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/unordered-containers-0.2.17.0 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-module-text-1.0.2 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/yaml-0.11.8.0 ~amd64
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo
+# required by dev-haskell/conduit-1.3.4.2::gentoo
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/vector-algorithms-0.8.0.4 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/indexed-traversable-0.1.2 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/data-default-instances-containers-0.0.1 ~amd64
+# required by dev-haskell/statevar-1.2.1::gentoo
+# required by dev-haskell/contravariant-1.5.3::gentoo[statevar]
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/stm-2.5.0.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/text-short-0.1.5 ~amd64
+# required by dev-haskell/hslua-packaging-2.2.0::gentoo
+# required by dev-haskell/hslua-module-path-1.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-objectorientation-2.2.0 ~amd64
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/base-compat-0.12.1 ~amd64
+# required by dev-haskell/skylighting-0.12.3.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/skylighting-core-0.12.3.1 ~amd64
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/pem-0.2.4 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/citeproc-0.7 ~amd64
+# required by dev-haskell/tls-1.5.8::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/cryptonite-0.28 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/commonmark-extensions-0.2.3.2 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/tls-1.5.8 ~amd64
+# required by dev-haskell/hsyaml-0.2.1.0::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/nats-1.1.2-r1 ~amd64
+# required by @dev-utils (argument)
+=app-text/pandoc-2.18-r2 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/ipynb-0.2 ~amd64
+# required by dev-haskell/tls-1.5.8::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/x509-validation-1.6.11 ~amd64
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/http-types-0.12.3 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/blaze-html-0.9.1.2-r1 ~amd64
+# required by dev-haskell/contravariant-1.5.3::gentoo[semigroups]
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/semigroups-0.20 ~amd64
+# required by dev-haskell/skylighting-core-0.12.3.1::gentoo
+# required by dev-haskell/skylighting-0.12.3.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/utf8-string-1.0.1.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/glob-0.10.2 ~amd64
+# required by dev-haskell/skylighting-core-0.12.3.1::gentoo
+# required by dev-haskell/skylighting-0.12.3.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/ansi-terminal-0.10.3 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/file-embed-0.0.11.2 ~amd64
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/unliftio-core-0.1.2.0 ~amd64
+# required by dev-haskell/cabal-3.4.1.0::gentoo
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/mtl-2.2.2 ~amd64
+# required by dev-haskell/hslua-2.2.0::gentoo
+# required by dev-haskell/hslua-module-doclayout-1.0.4::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-aeson-2.2.0 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-module-path-1.0.2 ~amd64
+# required by dev-haskell/network-uri-2.6.4.1::gentoo
+# required by dev-haskell/commonmark-extensions-0.2.3.2::gentoo
+# required by dev-haskell/commonmark-pandoc-0.2.1.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/th-compat-0.1.3 ~amd64
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/uniplate-1.6.13 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/doclayout-0.4 ~amd64
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/asn1-types-0.3.3 ~amd64
+# required by dev-haskell/tls-1.5.8::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/x509-1.7.5 ~amd64
+# required by dev-haskell/citeproc-0.7::gentoo[icu]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/text-icu-0.7.1.0 ~amd64
+# required by dev-haskell/hslua-core-2.2.0::gentoo
+# required by dev-haskell/hslua-module-path-1.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/lua-2.2.0 ~amd64
+# required by dev-haskell/onetuple-0.3.1::gentoo
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hashable-1.4.0.2-r1 ~amd64
+# required by dev-haskell/mono-traversable-1.0.15.1::gentoo
+# required by dev-haskell/conduit-1.3.4.2::gentoo
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/split-0.2.3.4 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/xml-conduit-1.9.1.1 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/data-default-instances-old-locale-0.0.1 ~amd64
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/http-client-0.7.11 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/pandoc-lua-marshal-0.1.6 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/attoparsec-0.14.4 ~amd64
+# required by dev-haskell/asn1-encoding-0.9.6::gentoo
+# required by dev-haskell/asn1-parse-0.9.5::gentoo
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hourglass-0.2.12 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/distributive-0.6.2.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/onetuple-0.3.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/base64-bytestring-1.0.0.3 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/xml-1.3.14 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/cabal-3.4.1.0 ~amd64
+# required by dev-haskell/tls-1.5.8::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/async-2.2.4 ~amd64
+# required by dev-haskell/comonad-5.0.8::gentoo
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/transformers-compat-0.6.6 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/tagsoup-0.14.8 ~amd64
+# required by dev-haskell/pandoc-types-1.22.2::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/quickcheck-2.14.2 ~amd64
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/case-insensitive-1.2.1.0 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-module-doclayout-1.0.4 ~amd64
+# required by dev-haskell/witherable-0.4.2::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/vector-0.12.3.1 ~amd64
+# required by dev-haskell/quickcheck-2.14.2::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/random-1.2.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/pretty-show-1.10 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/commonmark-pandoc-0.2.1.2 ~amd64
+# required by dev-haskell/hslua-module-path-1.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-packaging-2.2.0 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/lpeg-1.0.3 ~amd64
+# required by dev-haskell/errors-2.3.0::gentoo
+# required by dev-haskell/text-conversions-0.3.1::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/text-1.2.5.0 ~amd64
+# required by dev-haskell/memory-0.15.0-r1::gentoo
+# required by dev-haskell/cryptonite-0.28::gentoo
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/basement-0.0.12 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/socks-0.6.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/juicypixels-3.3.5 ~amd64
+# required by dev-haskell/yaml-0.11.8.0::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/libyaml-0.1.2 ~amd64
+# required by dev-haskell/conduit-1.3.4.2::gentoo
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/mono-traversable-1.0.15.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/these-1.1.1.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/scientific-0.3.7.0-r1 ~amd64
+# required by dev-haskell/hslua-module-system-1.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/temporary-1.3 ~amd64
+# required by dev-haskell/contravariant-1.5.3::gentoo[statevar]
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/statevar-1.2.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/strict-0.4.0.1 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/cabal-doctest-1.0.9 ~amd64
+# required by dev-haskell/scientific-0.3.7.0-r1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/integer-logarithms-1.0.3.1-r1 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/data-default-instances-dlist-0.0.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/sha-1.6.4.4 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/zlib-0.6.2.3 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/http-client-tls-0.3.6.1 ~amd64
+# required by dev-haskell/hslua-2.2.0::gentoo
+# required by dev-haskell/hslua-module-doclayout-1.0.4::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-classes-2.2.0 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/base-compat-batteries-0.12.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/unicode-transforms-0.3.7.1-r1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/skylighting-0.12.3.1 ~amd64
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/blaze-builder-0.4.2.1 ~amd64
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/cmdargs-0.10.20 ~amd64
+# required by dev-haskell/text-conversions-0.3.1::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/errors-2.3.0 ~amd64
+# required by dev-haskell/tls-1.5.8::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/cereal-0.5.8.1 ~amd64
+# required by dev-haskell/pretty-show-1.10::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/haskell-lexer-1.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/doctemplates-0.10.0.2 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/witherable-0.4.2 ~amd64
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/asn1-parse-0.9.5 ~amd64
+# required by dev-haskell/hslua-classes-2.2.0::gentoo
+# required by dev-haskell/hslua-2.2.0::gentoo
+# required by dev-haskell/hslua-module-doclayout-1.0.4::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-core-2.2.0 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/safe-0.3.19 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/zip-archive-0.4.1 ~amd64
+# required by dev-haskell/random-1.2.1::gentoo
+# required by dev-haskell/uuid-types-1.0.5::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/splitmix-0.1.0.3 ~amd64
+# required by dev-haskell/hsyaml-0.2.1.0::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/fail-4.9.0.0 ~amd64
+# required by dev-haskell/data-default-instances-old-locale-0.0.1::gentoo
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/old-locale-1.0.0.7 ~amd64
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/iproute-1.7.8 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/texmath-0.12.5.1 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/uuid-types-1.0.5 ~amd64
+# required by dev-haskell/conduit-1.3.4.2::gentoo
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/resourcet-1.2.4.2 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/aeson-pretty-0.8.9 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-module-version-1.0.2 ~amd64
+# required by dev-haskell/zip-archive-0.4.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/digest-0.0.1.2 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/network-uri-2.6.4.1 ~amd64
+# required by dev-haskell/contravariant-1.5.3::gentoo
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/void-0.7.3 ~amd64
+# required by dev-haskell/cereal-0.5.8.1::gentoo
+# required by dev-haskell/socks-0.6.1::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/bytestring-builder-0.10.8.2.0 ~amd64
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/conduit-extra-1.3.4 ~amd64
+# required by dev-haskell/transformers-compat-0.6.6::gentoo
+# required by dev-haskell/contravariant-1.5.3::gentoo
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/transformers-0.5.6.2 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/x509-system-1.6.6 ~amd64
+# required by dev-lang/ghc-9.0.2-r4::gentoo[-ghcbootstrap]
+# required by dev-haskell/base-compat-batteries-0.12.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=app-admin/haskell-updater-1.3.2-r1 ~amd64
+# required by dev-haskell/iproute-1.7.8::gentoo
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/byteorder-1.0.4 ~amd64
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/conduit-1.3.4.2 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/connection-0.3.1 ~amd64
+# required by dev-haskell/data-default-0.7.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/data-default-class-0.1.2.0 ~amd64
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/indexed-traversable-instances-0.1 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/bifunctors-5.5.11 ~amd64
+# required by dev-haskell/pretty-show-1.10::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/happy-1.19.12 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/comonad-5.0.8 ~amd64
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/unicode-collation-0.1.3.3 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-module-system-1.0.2 ~amd64
+# required by dev-haskell/hsyaml-0.2.1.0::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/parsec-3.1.14.0-r1 ~amd64
+# required by dev-haskell/resourcet-1.2.4.2::gentoo
+# required by dev-haskell/conduit-extra-1.3.4::gentoo
+# required by dev-haskell/xml-conduit-1.9.1.1::gentoo
+# required by dev-haskell/citeproc-0.7::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/exceptions-0.10.4-r1 ~amd64
+# required by dev-haskell/strict-0.4.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/assoc-1.0.2 ~amd64
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/network-3.1.2.5 ~amd64
+# required by dev-haskell/comonad-5.0.8::gentoo
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/tagged-0.8.6.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/jira-wiki-markup-1.4.0 ~amd64
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/cookie-0.4.4 ~amd64
+# required by dev-haskell/commonmark-extensions-0.2.3.2::gentoo
+# required by dev-haskell/commonmark-pandoc-0.2.1.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/commonmark-0.2.2 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/data-fix-0.3.2 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/pandoc-types-1.22.2 ~amd64
+# required by dev-haskell/texmath-0.12.5.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/syb-0.7.2.1 ~amd64
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/haddock-library-1.10.0 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/dlist-1.0 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/primitive-0.7.3.0 ~amd64
+# required by dev-haskell/ansi-terminal-0.10.3::gentoo
+# required by dev-haskell/skylighting-core-0.12.3.1::gentoo
+# required by dev-haskell/skylighting-0.12.3.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/colour-2.3.5 ~amd64
+# required by dev-haskell/x509-1.7.5::gentoo
+# required by dev-haskell/x509-system-1.6.6::gentoo
+# required by dev-haskell/connection-0.3.1::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/asn1-encoding-0.9.6 ~amd64
+# required by dev-haskell/semigroupoids-5.3.7-r1::gentoo
+# required by dev-haskell/semialign-1.2.0.1::gentoo
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/contravariant-1.5.3 ~amd64
+# required by dev-haskell/hslua-packaging-2.2.0::gentoo
+# required by dev-haskell/hslua-module-path-1.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/hslua-marshalling-2.2.0 ~amd64
+# required by dev-haskell/aeson-2.0.3.0::gentoo
+# required by dev-haskell/aeson-pretty-0.8.9::gentoo[-lib-only]
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/semialign-1.2.0.1 ~amd64
+# required by dev-haskell/iproute-1.7.8::gentoo
+# required by dev-haskell/http-client-0.7.11::gentoo
+# required by dev-haskell/http-client-tls-0.3.6.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/appar-0.1.8 ~amd64
+# required by dev-haskell/blaze-html-0.9.1.2-r1::gentoo
+# required by dev-haskell/skylighting-core-0.12.3.1::gentoo
+# required by dev-haskell/skylighting-0.12.3.1::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/blaze-markup-0.8.2.8 ~amd64
+# required by dev-haskell/ipynb-0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/aeson-2.0.3.0 ~amd64
+# required by dev-haskell/text-conversions-0.3.1::gentoo
+# required by dev-haskell/doctemplates-0.10.0.2::gentoo
+# required by app-text/pandoc-2.18-r2::gentoo
+# required by @dev-utils (argument)
+=dev-haskell/base16-bytestring-0.1.1.7 ~amd64
+# required by @common-utils (argument)
+=net-im/telegram-desktop-bin-4.6.5 ~amd64
+# required by @dev-utils (argument)
+=www-apps/hugo-0.110.0 ~amd64
+# required by @common-utils (argument)
+=mail-mta/proton-mail-bridge-2.3.0 ~amd64
+# required by @workspace
+# required by @selected
+# required by @world (argument)
+=gui-wm/hyprland-0.22.0 ~amd64
+# required by @workspace (argument)
+=x11-terms/wezterm-20221119.145034 ~amd64
+# required by gui-apps/waybar-0.9.17::gentoo
+# required by @workspace (argument)
+=dev-libs/date-3.0.0 ~amd64
+# required by @workspace (argument)
+=gui-apps/waybar-0.9.17 ~amd64
+# required by @workspace (argument)
+=x11-apps/xcur2png-0.7.1 ~amd64
+# required by @workspace (argument)
+=gui-apps/wlogout-1.1.1 ~amd64
+# required by @workspace
+# required by @selected
+# required by @world (argument)
+=gui-apps/wofi-1.3 ~amd64
+# required by app-misc/uwufetch (argument)
+=app-misc/uwufetch-2.0 ~amd64
+# required by swaylock-effects (argument)
+=gui-apps/swaylock-effects-1.6.3 ~amd64
+# required by gui-apps/eww-0.4.0-r1::guru
+# required by gui-apps/eww (argument)
+=dev-lang/rust-1.67.1 ~amd64
+# required by gui-apps/eww (argument)
+=gui-apps/eww-0.4.0-r1 ~amd64
+# required by app-i18n/fcitx-rime-5.0.16::gentoo-zh
+# required by fcitx-rime::gentoo-zh (argument)
+=app-i18n/fcitx-5.0.23 ~amd64
+# required by app-i18n/fcitx-5.0.23::gentoo-zh[X]
+# required by app-i18n/fcitx-rime-5.0.16::gentoo-zh
+# required by fcitx-rime::gentoo-zh (argument)
+=x11-libs/xcb-imdkit-1.0.5 ~amd64
+# required by app-i18n/fcitx-rime-5.0.16::gentoo-zh
+# required by fcitx-rime::gentoo-zh (argument)
+=app-i18n/rime-prelude-20220122 ~amd64
+# required by fcitx-rime::gentoo-zh (argument)
+=app-i18n/fcitx-rime-5.0.16 ~amd64
+# required by app-i18n/fcitx-configtool-5.0.17::gentoo-zh
+# required by @workspace (argument)
+=app-i18n/fcitx-qt-5.0.17 ~amd64
+# required by @workspace (argument)
+=app-i18n/fcitx-gtk-5.0.23 ~amd64
+# required by @workspace (argument)
+=app-i18n/fcitx-configtool-5.0.17 ~amd64

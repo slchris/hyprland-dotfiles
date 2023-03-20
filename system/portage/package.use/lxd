@@ -1,0 +1,17 @@
+>=dev-libs/raft-0.17.1 lz4
+# required by app-containers/lxd-5.0.2-r1::gentoo
+# required by @dev-utils
+# required by @selected
+# required by @world (argument)
+>=dev-util/xdelta-3.0.11-r1 lzma
+# required by app-containers/lxd-5.0.2-r1::gentoo
+# required by @dev-utils
+# required by @selected
+# required by @world (argument)
+>=sys-fs/squashfs-tools-4.5.1-r1 lzma
+# required by app-containers/lxc-5.0.2::gentoo[tools,caps]
+# required by app-containers/lxd-5.0.2-r1::gentoo
+# required by @dev-utils
+# required by @selected
+# required by @world (argument)
+>=sys-libs/libcap-2.66 static-libs
