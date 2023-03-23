@@ -1,4 +1,4 @@
-# Hyperland Dotfiles
+# Hyprland Dotfiles
 
 ## screenshot
 
@@ -17,7 +17,7 @@
 > Please do not use the dotfiles of this repository directly, it may cause some conflict in your system, please choose to use it manually.
 
 - OS: [Gentoo Linux](https://www.gentoo.org/) with openrc desktop profile (use the stabe branch, also work on unstable branch)
-- WM: [Hyperland](https://github.com/hyprwm/Hyprland/wiki)
+- WM: [Hyprland](https://github.com/hyprwm/Hyprland/wiki)
 - Terminal [Wezterm](https://github.com/wez/wezterm)
 - Launcher [Wofi](https://hg.sr.ht/~scoopta/wofi)
 - Panel [Waybar](https://aur.archlinux.org/packages/waybar-hyprland-git)
@@ -61,7 +61,7 @@ Enable `wayland screencast pulseaudio` USE at global (make.conf), then rebuild t
 emerge --ask --verbose --changed-use --update --deep @world
 ```
 
-> hyperland and dependence
+> hyprland and dependence
 
 
 In this repository I use a set named workspace(This set contains some unnecessary software package, you can decide whether to delete it, But at least the software list of the package is still there), Install this set:
