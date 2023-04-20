@@ -951,3 +951,40 @@
 # required by @selected
 # required by @world (argument)
 =dev-ruby/google-protobuf-3.22.2 ~amd64
+# required by @bootloader
+# required by @selected
+# required by @world (argument)
+=sys-boot/systemd-boot-250-r1 ~amd64
+# required by @dev-utils (argument)
+=app-containers/docker-buildx-0.10.4 ~amd64
+# required by net-misc/gns3-server-2.2.38::gentoo
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+=app-emulation/dynamips-0.2.23 ~amd64
+# required by @network-emulators (argument)
+=net-misc/gns3-gui-2.2.38 ~amd64
+# required by net-misc/gns3-server-2.2.38::gentoo
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+=dev-python/aiofiles-23.1.0 ~amd64
+# required by net-misc/gns3-server-2.2.38::gentoo
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+=net-misc/ubridge-0.9.18 ~amd64
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+=net-misc/gns3-server-2.2.38 ~amd64
+# required by net-misc/gns3-server-2.2.38::gentoo
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+=dev-python/py-cpuinfo-9.0.0 ~amd64
+# required by @common-utils (argument)
+=media-video/shotcut-22.12.21 ~amd64
+# required by @common-utils (argument)
+=media-fonts/sarasa-gothic-0.40.4 ~amd64
+# required by @dev-utils (argument)
+=dev-vcs/lazygit-0.37 ~amd64
+# required by @dev-utils (argument)
+=sys-firmware/u-boot-bin-2022.10 ~amd64
+# required by @workspace (argument)
+=net-im/element-desktop-bin-1.11.23 ~amd64

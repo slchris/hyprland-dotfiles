@@ -1,0 +1,2 @@
+net-misc/networkmanager connection-sharing iptables
+net-wireless/wpa_supplicant ap

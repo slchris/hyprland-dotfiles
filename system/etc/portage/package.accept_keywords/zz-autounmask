@@ -862,5 +862,8 @@
 # required by @common-utils (argument)
 =mail-mta/proton-mail-bridge-2.3.0 ~amd64
 gui-apps/waybar **
+dev-ruby/ed25519 **
 
+
+dev-lang/ldc2 **
 

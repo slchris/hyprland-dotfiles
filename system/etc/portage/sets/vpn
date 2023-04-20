@@ -2,3 +2,8 @@ net-misc/zerotier
 net-vpn/tinc
 net-misc/proxychains
 net-vpn/tor
+net-vpn/networkmanager-openvpn
+net-vpn/networkmanager-pptp
+net-vpn/networkmanager-openconnect
+net-vpn/networkmanager-vpnc
+net-vpn/networkmanager-strongswan

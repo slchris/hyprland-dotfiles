@@ -1,3 +1,4 @@
 sys-kernel/gentoo-sources
 sys-apps/pciutils
 sys-kernel/genkernel
+sys-kernel/dracut

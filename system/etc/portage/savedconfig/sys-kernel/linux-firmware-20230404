@@ -31,6 +31,8 @@ amdgpu/sdma_6_0_1.bin
 amdgpu/sdma_6_0_0.bin
 amdgpu/sdma_5_2_7.bin
 amdgpu/sdma_5_2_6.bin
+amdgpu/psp_13_0_11_toc.bin
+amdgpu/psp_13_0_11_ta.bin
 amdgpu/psp_13_0_8_toc.bin
 amdgpu/psp_13_0_8_ta.bin
 amdgpu/psp_13_0_8_asd.bin
@@ -48,6 +50,13 @@ amdgpu/dcn_3_2_0_dmcub.bin
 amdgpu/dcn_3_1_6_dmcub.bin
 amdgpu/dcn_3_1_5_dmcub.bin
 amdgpu/dcn_3_1_4_dmcub.bin
+amdgpu/gc_11_0_4_rlc.bin
+amdgpu/gc_11_0_4_pfp.bin
+amdgpu/gc_11_0_4_mes1.bin
+amdgpu/gc_11_0_4_mes.bin
+amdgpu/gc_11_0_4_mec.bin
+amdgpu/gc_11_0_4_me.bin
+amdgpu/gc_11_0_4_imu.bin
 amdgpu/gc_11_0_2_rlc.bin
 amdgpu/gc_11_0_2_pfp.bin
 amdgpu/gc_11_0_2_mes.bin
@@ -1381,6 +1390,8 @@ intel/ibt-19-16-4.ddc
 intel/ibt-19-16-4.sfi
 intel/ibt-19-0-4.ddc
 intel/ibt-19-0-4.sfi
+intel/ibt-19-0-3.ddc
+intel/ibt-19-0-3.sfi
 intel/ibt-19-0-1.ddc
 intel/ibt-19-0-1.sfi
 intel/ibt-19-0-0.ddc
@@ -1509,6 +1520,7 @@ iwlwifi-so-a0-gf-a0-74.ucode
 iwlwifi-so-a0-gf-a0-77.ucode
 iwlwifi-so-a0-gf-a0-78.ucode
 iwlwifi-so-a0-gf-a0-79.ucode
+iwlwifi-so-a0-gf-a0-81.ucode
 iwlwifi-so-a0-gf-a0.pnvm
 iwlwifi-so-a0-gf4-a0-72.ucode
 iwlwifi-so-a0-gf4-a0-73.ucode
@@ -1516,12 +1528,14 @@ iwlwifi-so-a0-gf4-a0-74.ucode
 iwlwifi-so-a0-gf4-a0-77.ucode
 iwlwifi-so-a0-gf4-a0-78.ucode
 iwlwifi-so-a0-gf4-a0-79.ucode
+iwlwifi-so-a0-gf4-a0-81.ucode
 iwlwifi-so-a0-gf4-a0.pnvm
 iwlwifi-so-a0-hr-b0-72.ucode
 iwlwifi-so-a0-hr-b0-73.ucode
 iwlwifi-so-a0-hr-b0-74.ucode
 iwlwifi-so-a0-hr-b0-77.ucode
 iwlwifi-so-a0-hr-b0-79.ucode
+iwlwifi-so-a0-hr-b0-81.ucode
 iwlwifi-so-a0-jf-b0-72.ucode
 iwlwifi-so-a0-jf-b0-73.ucode
 iwlwifi-so-a0-jf-b0-74.ucode
@@ -1534,6 +1548,7 @@ iwlwifi-ty-a0-gf-a0-74.ucode
 iwlwifi-ty-a0-gf-a0-77.ucode
 iwlwifi-ty-a0-gf-a0-78.ucode
 iwlwifi-ty-a0-gf-a0-79.ucode
+iwlwifi-ty-a0-gf-a0-81.ucode
 iwlwifi-ty-a0-gf-a0.pnvm
 kaweth/trigger_code_fix.bin
 kaweth/trigger_code.bin
@@ -2295,6 +2310,12 @@ nvidia/tegra210/xusb.bin
 nvidia/tegra124/vic.bin
 nvidia/tegra124/vic03_ucode.bin
 nvidia/tegra124/xusb.bin
+nxp/uartspi_n61x_v1.bin.se
+nxp/uartuart9098_bt_v1.bin
+nxp/uartuart8987_bt.bin
+nxp/helper_uart_3000000.bin
+nxp/uartiw416_bt_v0.bin
+nxp/uartuart8997_bt_v4.bin
 nxp/sr150_fw.bin
 phanfw.bin
 qat_4xxx.bin
@@ -2834,6 +2855,7 @@ rtw88/rtw8822c_wow_fw.bin
 rtw88/rtw8822c_fw.bin
 rtw88/rtw8822b_fw.bin
 rtw89/rtw8852c_fw.bin
+rtw89/rtw8852b_fw-1.bin
 rtw89/rtw8852b_fw.bin
 rtw89/rtw8852a_fw.bin
 s2250.fw

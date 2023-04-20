@@ -1,0 +1,11 @@
+# required by sys-cluster/ceph-16.2.10-r5::gentoo[system-boost]
+# required by ceph (argument)
+>=dev-libs/boost-1.81.0-r1 python context
+# required by sys-cluster/ceph-16.2.10-r5::gentoo
+# required by ceph (argument)
+>=sys-fs/lvm2-2.03.17-r2 lvm
+# required by dev-python/scipy-1.10.0::gentoo[-test]
+# required by sci-libs/scikit-learn-1.1.2::gentoo
+# required by sys-cluster/ceph-16.2.10-r5::gentoo[mgr]
+# required by ceph (argument)
+>=dev-python/numpy-1.24.2 lapack

@@ -17,3 +17,44 @@
 # required by app-doc/zeal-0.6.1_p20200815-r1::gentoo
 # required by @dev-utils (argument)
 >=sys-libs/zlib-1.2.13-r1 minizip
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+>=dev-python/PyQt5-5.15.7 websockets
+# required by net-misc/gns3-server-2.2.38::gentoo
+# required by net-misc/gns3-gui-2.2.38::gentoo
+# required by @network-emulators (argument)
+>=sys-apps/busybox-1.34.1-r1 static
+# required by app-emulation/qemu-7.2.0::gentoo[-static,static-user]
+# required by qemu (argument)
+>=dev-libs/glib-2.74.6 static-libs
+# required by app-emulation/qemu-7.2.0::gentoo[-static,static-user]
+# required by qemu (argument)
+>=sys-libs/zlib-1.2.13-r1 static-libs
+# required by app-emulation/qemu-7.2.0::gentoo[-static,static-user,xattr]
+# required by qemu (argument)
+>=sys-apps/attr-2.5.1-r2 static-libs
+# required by dev-libs/glib-2.74.6::gentoo
+# required by app-emulation/qemu-7.2.0::gentoo[-static,static-user]
+# required by qemu (argument)
+>=dev-libs/libpcre2-10.42-r1 static-libs
+# required by media-video/shotcut-22.12.21::gentoo
+# required by @common-utils (argument)
+>=media-libs/mlt-7.12.0 jack frei0r ffmpeg
+# required by media-plugins/frei0r-plugins-1.7.0-r2::gentoo[facedetect]
+# required by media-libs/mlt-7.12.0::gentoo[frei0r]
+# required by media-video/shotcut-22.12.21::gentoo
+# required by @common-utils (argument)
+>=media-libs/opencv-4.6.0-r4 contribdnn
+# required by media-gfx/krita-5.1.5::gentoo[python_single_target_python3_10]
+# required by @common-utils
+# required by @selected
+# required by @world (argument)
+>=dev-python/PyQt5-5.15.7 declarative
+# required by www-servers/nginx-1.23.3::gentoo
+# required by @dev-utils
+# required by @selected
+# required by @world (argument)
+>=app-misc/mime-types-2.1.53 nginx
+# required by net-misc/gnome-remote-desktop-44.0::gentoo[rdp]
+# required by net-misc/gnome-remote-desktop (argument)
+>=net-misc/freerdp-2.10.0 server

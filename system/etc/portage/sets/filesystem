@@ -1,1 +1,4 @@
 sys-fs/zfs
+sys-fs/zfs-auto-snapshot
+sys-fs/dosfstools
+sys-fs/ncdu
